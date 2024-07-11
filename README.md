@@ -7,3 +7,4 @@
    suitable for different application scenarios respectively. For example, power-constrained edge computing devices, or the cloud and workstations with general-purpose graphics cards.
 3. On two public datasets, the LFMD-YOLO method demonstrates its superiority, outperforming several state-ofthe-art algorithms.
 
+##### After receiving the paper, we will put the collated code and data into GitHub for sharing.
